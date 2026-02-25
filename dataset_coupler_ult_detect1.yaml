@@ -1,0 +1,10 @@
+path: dataset2.0_C.N.H_24.02.2026 # dataset root dir
+train: images/Train # train images 
+val: images/val # val images 
+
+# Classes
+names:
+  0: coupler
+  1: number
+  2: helm
+
